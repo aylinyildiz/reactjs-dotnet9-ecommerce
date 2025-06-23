@@ -14,7 +14,6 @@ export default function ServerError()
                         <Divider />
                         <Typography variant="body2">{state.error.detail || "Unknown error"}</Typography>
                     </>
-
                 ) :
                 (
                     <Typography variant="h5">Server Error</Typography>
