@@ -30,6 +30,7 @@ This is a full-featured e-commerce web application built using **ASP.NET Core 9 
 - 📦 Order management
 - 🔐 Role-based access (Admin & User)
 - ⚠️ Global error handling
+- 💳 Payment integration
 - 📱 Responsive and modern UI with Material UI
 ---
 
